@@ -111,7 +111,9 @@ A análise SWOT da Clean Auto Detailers revela um cenário complexo, com desafio
 
 A compreensão profunda dos processos internos é fundamental para qualquer empresa que busca otimizar suas operações e alcançar o crescimento. Neste capítulo, será apresentado um mapeamento detalhado dos processos de negócio da Clean Auto Detailers, desde a captação de clientes até o fechamento das transações. A análise dos processos atuais permitirá identificar as principais eficiências e ineficiências, fornecendo subsídios para a proposição de melhorias e a implementação de novas ferramentas e tecnologias.
 
---imagem--
+![Mapeamento de Processos](img/mapprocesso.png)
+
+
 
 Os processos principais mapeados incluem:
 1.	Captação do Cliente: Este processo inicial envolve a recepção de novos pedidos de serviços de detalhamento automotivo, que podem ser recebidos por diferentes canais, como telefone, e-mail ou redes sociais. A diversificação dos canais de entrada representa uma abordagem eficiente para atingir diferentes perfis de clientes, mas também implica a necessidade de uma gestão eficaz para evitar a perda de solicitações.
@@ -144,9 +146,10 @@ Para capitalizar sobre suas oportunidades e mitigar as ameaças, foram propostas
 AUTOMOTIVE NEWS. Automotive Detailing Market Overview. Disponível em: https://www.autonews.com/automotive-detailing-market-overview. Acesso em: 25 ago. 2024.
 
 CLEAN AUTO DETAILERS. Best Mobile Detailing Services Near Me in Auburn, AL. Disponível em: https://cleanautodetailers.com/. Acesso em: 25 ago. 2024. 
+
 GRAND VIEW RESEARCH. Car Detailing Market Size, Share & Trends Analysis Report by Type (Interior, Exterior), by Application (Commercial, Residential), by Region, and Segment Forecasts, 2024 - 2031. Disponível em: https://www.grandviewresearch.com/sector-report/car-wash-detailing-services-industry-data-book. Acesso em: 25 ago. 2024.
 
- IBISWORLD. Car Detailing in the US - Market Research Report. Disponível em: https://www.ibisworld.com/united-states/market-research-reports/car-wash-auto-detailing-industry/.Acesso em: 25 ago. 2024. 
+IBISWORLD. Car Detailing in the US - Market Research Report. Disponível em: https://www.ibisworld.com/united-states/market-research-reports/car-wash-auto-detailing-industry/.Acesso em: 25 ago. 2024. 
 
 MOTOR TREND. 2023 Trends in Car Detailing. Disponível em: https://www.motortrend.com/news/2023-trends-car-detailing. Acesso em: 25 ago. 2024.
 SEMRUSH. Competitor Analysis Tool. Disponível em: SEMrush. Acesso em: 25 ago. 2024.
