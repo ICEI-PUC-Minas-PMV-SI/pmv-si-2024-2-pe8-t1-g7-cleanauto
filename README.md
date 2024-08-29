@@ -1,4 +1,4 @@
-# Título do Projeto
+# PROJETO DE ANÁLISE ORGANIZACIONAL: CLEAN AUTO DETAILERS
 
 `CURSO: Sistemas de Informação`
 
@@ -6,25 +6,32 @@
 
 `SEMESTRE: 8º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo é proporcionar uma visão abrangente das operações da empresa e do seu posicionamento no mercado local, identificando áreas de melhoria e potencial de crescimento. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Caroline Clarissa Leite de Aguiar
+* Krysthyan Jhonny Ramos da Silva
+* Maria Clara Bethonico Terra
+
 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Profa. Simone Fernandes Queiroz
 
 # Planejamento
 
-Descrever o planejamento de cada etapa       
+* ETAPA 1
+Definição da organização e estudo do negócio e seu mercado
+* ETAPA 2
+Plano de Inteligência Competitiva (IC)
+* ETAPA 3
+Desenvolvimento de alternativas de soluções de SI
+* ETAPA 4
+Planejamento Estratégico de TI
+* ETAPA 5
+Avaliação e Gestão Contínua de TI   
 
 # Código
 
